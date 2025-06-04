@@ -50,12 +50,6 @@ The dashboard highlights the following key metrics:
 
 ---
 
-## 📢 Note
-
-> 📚 This project was developed for **educational purposes** and is a part of a data visualization case study. All insights are based on sample data and not tied to actual business operations of Blinkit.
-
----
-
 ## 👨‍💻 Created by
 
 **Ajinkya Kutarmare**  
